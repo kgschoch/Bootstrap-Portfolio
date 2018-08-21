@@ -1,0 +1,52 @@
+.container {
+  padding: 10px;
+}
+
+
+.mainContent { 
+  border: 3px black solid;
+  padding: 20px;
+
+}
+
+.mainContent2 {
+  border: 3px black solid;
+  padding: 20px;
+}
+
+.mainContent3 {
+  border: 3px black solid;
+  padding: 20px;
+}
+
+hr {
+}
+
+#rocketPower {
+  height: 250px;
+  margin-bottom: 10px;
+}
+
+#portfolio1 {
+  height:175px;
+  
+  margin-bottom: 10px;
+}
+
+#portfolio2 {
+  height:175px;
+  margin-bottom: 10px;
+  float:right;
+ 
+}
+#portfolio3 {
+  height:175px;
+  margin-bottom: 10px;
+ 
+}
+
+#portfolio4 {
+  height:175px;
+  margin-bottom: 10px;
+  float:right;
+}
